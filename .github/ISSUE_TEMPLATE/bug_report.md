@@ -1,0 +1,1 @@
+---\nname: 🐛 Bug Report\nabout: Report an issue in regex-radar\ntitle: '[BUG] '\n---\n\n**Describe the bug**\n\n**To Reproduce**\n
